@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/goit-react-hw-02-feedback/static/js/main.fadc2bb8.chunk.js",
+    "main.js.map": "/goit-react-hw-02-feedback/static/js/main.fadc2bb8.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-02-feedback/static/js/runtime-main.13735fd6.js",
+    "runtime-main.js.map": "/goit-react-hw-02-feedback/static/js/runtime-main.13735fd6.js.map",
+    "index.html": "/goit-react-hw-02-feedback/index.html"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13735fd6.js",
+    "static/js/main.fadc2bb8.chunk.js"
+  ]
+}
